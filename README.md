@@ -12,7 +12,7 @@ Transmitir conocimientos técnicos de forma clara y pedagógica.
 ---
 🛠️ Proyectos y Experiencia:
 
-Un Bot de Discord , que Crea su propia Economia , gastos , Trabajos , pesca , y su sistema de Retiros y Depositos entre los miembros del Servidor, Ideal para Entretenimiento.
+Un Bot de Discord , que Crea su propia Economia , gastos , Trabajos , pesca , mineria y su sistema de Retiros y Depositos entre los miembros del Servidor, Ideal para Entretenimiento , aparte que estoy Implementando un Nivel de Seguridad para Proteger cada Servidor de Ciber Ataques
 Metodologías aplicadas en mi trabajo freelance para la resolución de fallas críticas.
 Creación de interfaces modernas y funcionales centradas en el usuario.
 Guías estructuradas para usuarios finales (mezclando mi perfil técnico y docente).
