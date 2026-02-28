@@ -14,6 +14,7 @@ En lo que estoy enfocado:
 
 * Un Bot de Discord , que Crea su propia Economia , gastos , Trabajos , pesca , mineria y su sistema de Retiros y Depositos entre los miembros del Servidor, Ideal para Entretenimiento , aparte que estoy Implementando un Nivel de Seguridad para Proteger cada Servidor de Ciber Ataques
 
+* Proyectos en Desarrollo como mi Endpoint Protection Prototype
 * Metodologías aplicadas en mi trabajo freelance para la resolución de fallas críticas.
 * Creación de interfaces modernas y funcionales centradas en el usuario.
 * Guías estructuradas para usuarios finales (mezclando mi perfil técnico y docente).
@@ -24,7 +25,7 @@ Fun Facts:
 
 * Me encantan los videojuegos; me ayudan a mantener el pensamiento lógico y la estrategia al día.
 * La lasaña es mi combustible favorito para las largas sesiones de código.
-* "Que la Fuerza te acompañe" Soy un gran Amante de la saga.
+* "Que la Fuerza te acompañe" Soy un gran Amante de la saga Star Wars.
 * Siempre estoy buscando aprender algo nuevo o mejorar un proceso que ya existe.
 
 ---
